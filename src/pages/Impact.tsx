@@ -267,7 +267,7 @@ const Impact = () => {
                <div key={i} className={`relative overflow-hidden rounded-[2rem] aspect-square group cursor-pointer ${
                  i === 0 || i === 5 ? 'md:col-span-2 md:row-span-2' : ''
                }`}>
-                  <img src={`images/spur-visit.jpg?auto=format&fit=crop&q=80&w=800`} alt="Impact Gallery" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
+                  <img src={`/images/spur-visit.jpg?auto=format&fit=crop&q=80&w=800`} alt="Impact Gallery" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
                   <div className="absolute inset-0 bg-primary-navy/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                      <span className="text-white font-black text-[10px] tracking-[0.3em] uppercase">Impact Moment</span>
                   </div>
