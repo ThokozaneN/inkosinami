@@ -85,7 +85,7 @@ const About = () => {
             <div className="relative">
               <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-white transform rotate-2">
                 <img 
-                  src="images/mall-visit.jpeg"
+                  src="/images/mall-visit.jpeg"
                   alt="Children learning"
                   className="w-full h-full object-cover"
                 />
