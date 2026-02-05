@@ -6,7 +6,7 @@ const CTA = () => {
       {/* Background Image */}
       <div className="absolute inset-0 opacity-20">
         <img 
-          src="/images/Originals/children-hero.png" 
+          src="https://drive.google.com/file/d/1rBx_pFing0XB1lL4Eoyr5H33EA48LdSk/view?usp=drive_link" 
           alt="Background" 
           className="w-full h-full object-cover grayscale"
         />
