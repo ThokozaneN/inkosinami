@@ -6,7 +6,7 @@ const CTA = () => {
       {/* Background Image */}
       <div className="absolute inset-0 opacity-20">
         <img 
-          src="images/Originals/children-hero.png" 
+          src="/images/Originals/children-hero.png" 
           alt="Background" 
           className="w-full h-full object-cover grayscale"
         />
