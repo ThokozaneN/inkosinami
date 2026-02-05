@@ -26,7 +26,7 @@ const Programs = () => {
         "Health & nutrition monitoring"
       ],
       stats: { number: "1,000+", label: "Meals Monthly" },
-      image: "images/food-donations.jpeg",
+      image: "/images/food-donations.jpeg",
       color: "from-orange-500 to-amber-500",
       bgColor: "bg-orange-50",
       borderColor: "border-orange-200",
@@ -86,7 +86,7 @@ const Programs = () => {
         "Supervised community play"
       ],
       stats: { number: "4", label: "Major Annual Events" },
-      image: "images/spur-visit.jpg",
+      image: "/images/spur-visit.jpg",
       color: "from-violet-500 to-purple-600",
       bgColor: "bg-violet-50",
       borderColor: "border-violet-200",
