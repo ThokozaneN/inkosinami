@@ -61,7 +61,7 @@ const Donate = () => {
       title: "Five Meals",
       desc: "Covers a full week of nutritious, cooked lunches for a child.",
       icon: <Coffee size={32} />,
-      img: "images/food-donations.jpeg",
+      img: "/images/food-donations.jpeg",
     },
     {
       amount: "R150",
@@ -69,7 +69,7 @@ const Donate = () => {
       title: "Academic Kit",
       desc: "Provides a full school uniform or a complete set of stationery for a term.",
       icon: <BookOpen size={32} />,
-      img: "images/books.jpeg",
+      img: "/images/books.jpeg",
     },
     {
       amount: "R350",
@@ -77,7 +77,7 @@ const Donate = () => {
       title: "Skill Workshop",
       desc: "Sponsors a child's participation in our specialized life-skills programs.",
       icon: <CheckCircle2 size={32} />,
-      img: "images/outdoor-activities.jpeg",
+      img: "/images/outdoor-activities.jpeg",
     },
     {
       amount: "Custom",
@@ -85,7 +85,7 @@ const Donate = () => {
       title: "General Fund",
       desc: "Enables organizational growth, staff training, and sanctuary maintenance.",
       icon: <DollarSign size={32} />,
-      img: "images/absa-visit.jpeg",
+      img: "/images/absa-visit.jpeg",
     }
   ];
 
