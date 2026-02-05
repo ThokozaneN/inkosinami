@@ -3,9 +3,9 @@ import { ArrowRight } from 'lucide-react';
 
 const GalleryPreview = () => {
   const images = [
-    "/images/clothing-collection.jpeg",
-    "/images/outdoor-activities.jpeg",
-    "/images/books.jpeg",
+    "https://drive.google.com/file/d/1GVNwQQCFcO8Fy9b7Vto3gxA4C0UGSSt2/view?usp=drive_link",
+    "https://drive.google.com/file/d/1HpFjYvBC_azyaUxcz_H6A5qAceC6RTP1/view?usp=drive_link",
+    "https://drive.google.com/file/d/1rNBQX-elTLi3bdbTvvPPrR34_wvTBJg3/view?usp=drive_link",
   ];
 
   return (
