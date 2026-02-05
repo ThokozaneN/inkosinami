@@ -48,7 +48,7 @@ const Founder = () => {
             <div className="relative z-10">
               <div className="aspect-[4/5] rounded-[2rem] overflow-hidden shadow-2xl transform rotate-[-2deg] border-8 border-white">
                 <img 
-                  src="images/esther-phindile-kubeka.png" 
+                  src="/images/esther-phindile-kubeka.png" 
                   alt="Esther Phindile Kubeka" 
                   className="w-full h-full object-cover scale-105 hover:scale-110 transition-transform duration-700"
                 />
