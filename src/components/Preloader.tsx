@@ -12,16 +12,16 @@ const Preloader = ({ onComplete }: PreloaderProps) => {
   
   // High-performance image placeholders (smaller size for instant loading)
   const [images] = useState([
-    "images/center.jpg",
-    "images/spur-visit.jpg",
-    "images/Originals/children-hero.png",
-    "images/outdoor-activities.jpeg",
-    "images/mall-visit.jpeg",
-    "images/absa-visit.jpeg",
-    "images/food-preparation.jpeg",
-    "images/playtime.jpg",
-    "images/furniture-dontations.jpeg",
-    "images/meal-sharing.jpg",
+    "/images/center.jpg",
+    "/images/spur-visit.jpg",
+    "/images/Originals/children-hero.png",
+    "/images/outdoor-activities.jpeg",
+    "/images/mall-visit.jpeg",
+    "/images/absa-visit.jpeg",
+    "/images/food-preparation.jpeg",
+    "/images/playtime.jpg",
+    "/images/furniture-dontations.jpeg",
+    "/images/meal-sharing.jpg",
   ]);
 
   const getImg = (i: number) => images[i % images.length];
